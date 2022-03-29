@@ -91,6 +91,12 @@ function createTask($task)
 function deleteTask($task)
 {
     global $service;
+
+
+
+
+
+    
 }
 
 function taskArrayToJson($tasks)
