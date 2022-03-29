@@ -1,0 +1,8 @@
+.marked{
+    transition:0.2s;
+    background: rgba(209, 22, 22, 0.185);
+}
+
+.unmarked{
+    transition: 0.2s;
+}
